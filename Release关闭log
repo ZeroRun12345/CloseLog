@@ -1,1 +1,4 @@
 ### 项目Release模式下强制关闭log
+
+### 使用方法
+    直接全局 import or .pch 文件 import
